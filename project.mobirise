@@ -31,9 +31,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "浪莎东方国际",
+        "meta_descr": "浪莎东方国际 张亿盛17689351952",
+        "header_custom": "<script type='text/javascript'>\n    (function(m, ei, q, i, a, j, s) {\n        m[i] = m[i] || function() {\n            (m[i].a = m[i].a || []).push(arguments)\n        };\n        j = ei.createElement(q),\n            s = ei.getElementsByTagName(q)[0];\n        j.async = true;\n        j.charset = 'UTF-8';\n        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';\n        s.parentNode.insertBefore(j, s);\n    })(window, document, 'script', '_MEIQIA');\n    _MEIQIA('entId', 47756);\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
