@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-10_1251",
+    "name": "langsha",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
@@ -18,11 +18,16 @@
         "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
     "versionFirst": "4.7.2",
     "uniqCompNum": 10,
     "versionPublish": "4.7.2"
